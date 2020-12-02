@@ -1,1 +1,1 @@
-In this project I was given some designs that were to be implented on iOS and be able to change how the UI should look depending on screen size and the type of device being used.
+In this project I was given a couple of UI designs that were suppose to implemented on iOS. Depending on screen size, orientation, and device currently being, it will display the currect UI at runtime.
